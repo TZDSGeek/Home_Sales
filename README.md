@@ -1,6 +1,6 @@
 ## Module 22 Home Sales Pyspark Challenge
 
-I was able to complete the majority of this assignment by mainly referencing the course material taught in this module. On rare occasions, I referred to stack overflow for minor troubleshooting.
+I was able to complete the majority of this assignment by mainly referencing the course material taught in this module. I also referred to stack overflow for minor troubleshooting.
 
 ## References ##
 U of U Data Analytics Boot Camp Module 22,
